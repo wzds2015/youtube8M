@@ -5,6 +5,7 @@
 target/
 project/target/
 project/project/target/
+src/*.pyc
 
 .DS_Store
 
